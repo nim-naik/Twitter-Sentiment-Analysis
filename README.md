@@ -65,6 +65,7 @@ Text Vectorizer: TfidfVectorizer
 Training-Test Split: 80-20 
 
 Target Variable: target (0 = Negative tweet, 1 = Positive tweet)
+
 Note - As per existing dataset value of target is 4 for positive tweet, but it is replaced wit 1 to simplify binary classification.
 
 Evaluation Metrics:
