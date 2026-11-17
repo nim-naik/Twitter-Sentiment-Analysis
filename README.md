@@ -25,6 +25,7 @@ Clone or download the repository.
 Ensure required libraries are installed:
 
 pip install numpy pandas nltk scikit-learn kaggle.
+
 Set up your Kaggle API credentials (kaggle.json in ~/.kaggle/) or download the dataset manually.
 
 Run the script.
