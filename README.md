@@ -32,7 +32,7 @@ Run the script.
 python twitter_sentiment_analysis_using_ml.py
 
 
-(Note: Lemmatizing around 1.6 million tweets takes roughly 50 minutes depending on your hardware.)
+Note: Lemmatizing around 1.6 million tweets takes roughly 50 minutes depending on your hardware.
 
 📂 Data Used
 
@@ -66,7 +66,7 @@ Training-Test Split: 80-20
 
 Target Variable: target (0 = Negative tweet, 1 = Positive tweet)
 
-Note - As per existing dataset value of target is 4 for positive tweet, but it is replaced wit 1 to simplify binary classification.
+Note: As per existing dataset value of target is 4 for positive tweet, but it is replaced wit 1 to simplify binary classification.
 
 Evaluation Metrics:
 
